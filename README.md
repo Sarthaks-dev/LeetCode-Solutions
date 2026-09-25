@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0050-powx-n](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
@@ -46,6 +47,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
