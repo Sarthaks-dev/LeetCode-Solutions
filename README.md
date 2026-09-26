@@ -25,6 +25,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -65,4 +66,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
