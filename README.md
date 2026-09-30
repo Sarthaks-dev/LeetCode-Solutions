@@ -17,6 +17,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 ## Simulation
@@ -84,6 +85,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0125-valid-palindrome](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
