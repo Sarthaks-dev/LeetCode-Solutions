@@ -18,6 +18,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
