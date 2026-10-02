@@ -5,7 +5,7 @@ class Solution:
         while left<right:
             sums = numbers[left] + numbers[right]
             if sums == target:
-                return (left+1,right+1)
+                return [left+1,right+1]
             elif sums>target:
                 right-=1
             else:
