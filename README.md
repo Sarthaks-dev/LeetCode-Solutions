@@ -37,6 +37,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -90,6 +91,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Divide and Conquer
@@ -105,4 +107,8 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
