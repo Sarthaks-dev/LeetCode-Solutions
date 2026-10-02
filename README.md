@@ -20,6 +20,7 @@
 | [0058-length-of-last-word](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 ## Simulation
@@ -49,6 +50,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -59,6 +61,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -116,4 +119,8 @@
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
