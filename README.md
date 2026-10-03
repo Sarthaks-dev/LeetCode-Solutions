@@ -46,6 +46,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0912-sort-an-array](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -68,11 +69,13 @@
 | [0242-valid-anagram](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0912-sort-an-array](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0912-sort-an-array](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Dynamic Programming
@@ -117,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0912-sort-an-array](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,4 +144,20 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
