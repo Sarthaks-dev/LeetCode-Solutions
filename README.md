@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0069-sqrtx](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
@@ -151,6 +152,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -192,4 +194,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Sarthaks-dev/LeetCode-Solutions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
